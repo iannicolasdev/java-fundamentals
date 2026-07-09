@@ -1,1 +1,0 @@
-# Repositório para projetos desenvolvidos com JAVA
