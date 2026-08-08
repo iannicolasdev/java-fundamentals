@@ -18,6 +18,13 @@ public class PrimitiveTypes {
         char characterFour = '\u0041';
 
         // Boolean type
-        boolean condition = true;
+        boolean conditionOne = true;
+        boolean conditionTwo = false;
+
+        System.out.printf("Integer Types:\nByte: %d\nShort: %d\nInt: %d\nLong: %d\n\n", numberOne, numberTwo, numberThree, numberFour);
+        System.out.printf("Floating-point types:\nFloat: %e\nDouble: %e\n\n", numberFive, numberSix);
+        System.out.printf("Character type:\n'A': %c\nASCII Decimal: %c\nASCII Octal: %c\nUnicode: %c\n\n", characterOne, characterTwo, characterThree, characterFour);
+        System.out.printf("Boolean type:\nTrue: %b\nFalse: %b\n\n", conditionOne, conditionTwo);
+
     }
 }
