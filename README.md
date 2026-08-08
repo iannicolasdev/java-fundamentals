@@ -6,7 +6,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 - [x] Hello World
 - [x] Variáveis
-- [ ] Tipos primitivos
+- [x] Tipos primitivos
 - [ ] Operadores
 - [ ] Entrada de dados (Scanner)
 
