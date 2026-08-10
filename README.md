@@ -8,7 +8,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 - [x] Variáveis - [Variables.java](Fundamentos/src/Variables.java)
 - [x] Tipos primitivos - [PrimitiveTypes.java](Fundamentos/src/PrimitiveTypes.java)
 - [x] Operadores - [Operators.java](Fundamentos/src/Operators.java)
-- [ ] Entrada de dados (Scanner) 
+- [x] Entrada de dados (Scanner) - [ScannerExample.java](Fundamentos/src/ScannerExample.java)
 
 ## Estruturas de Controle
 
