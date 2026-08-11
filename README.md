@@ -12,7 +12,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Estruturas de Controle
 
-- [ ] if / else
+- [x] if / else
 - [ ] switch
 - [ ] Operador ternário
 
