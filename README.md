@@ -12,9 +12,9 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Estruturas de Controle
 
-- [x] if / else - [IfElse.java](EstruturasDeControle/src/IfElse.java)
-- [x] switch - [Switch.java](EstruturasDeControle/src/Switch.java)
-- [x] Operador ternário - [TernaryOperator.java](EstruturasDeControle/src/TernaryOperator.java)
+- [x] if / else - [IfElse.java](ControlFlow/src/IfElse.java)
+- [x] switch - [Switch.java](ControlFlow/src/Switch.java)
+- [x] Operador ternário - [TernaryOperator.java](ControlFlow/src/TernaryOperator.java)
 
 ## Laços de Repetição
 
