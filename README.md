@@ -18,7 +18,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Laços de Repetição
 
-- [ ] while
+- [x] while - [WhileLoop.java](Loops/src/WhileLoop.java)
 - [ ] do-while
 - [ ] for
 - [ ] foreach
