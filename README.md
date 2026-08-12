@@ -4,11 +4,11 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Fundamentos
 
-- [x] Hello World - [HelloWorld.java](Fundamentos/src/HelloWorld.java)
-- [x] Variáveis - [Variables.java](Fundamentos/src/Variables.java)
-- [x] Tipos primitivos - [PrimitiveTypes.java](Fundamentos/src/PrimitiveTypes.java)
-- [x] Operadores - [Operators.java](Fundamentos/src/Operators.java)
-- [x] Entrada de dados (Scanner) - [ScannerExample.java](Fundamentos/src/ScannerExample.java)
+- [x] Hello World - [HelloWorld.java](Fundamentals/src/HelloWorld.java)
+- [x] Variáveis - [Variables.java](Fundamentals/src/Variables.java)
+- [x] Tipos primitivos - [PrimitiveTypes.java](Fundamentals/src/PrimitiveTypes.java)
+- [x] Operadores - [Operators.java](Fundamentals/src/Operators.java)
+- [x] Entrada de dados (Scanner) - [ScannerExample.java](Fundamentals/src/ScannerExample.java)
 
 ## Estruturas de Controle
 
