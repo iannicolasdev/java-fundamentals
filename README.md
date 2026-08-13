@@ -20,7 +20,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 - [x] while - [WhileLoop.java](Loops/src/WhileLoop.java)
 - [x] do-while - [DoWhileLoop.java](Loops/src/DoWhileLoop.java)
-- [ ] for
+- [x] for - [ForLoop.java](Loops/src/ForLoop.java)
 - [ ] foreach
 
 ## Métodos
