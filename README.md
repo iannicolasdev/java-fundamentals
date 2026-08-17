@@ -25,7 +25,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Métodos
 
-- [ ] Criação de métodos
+- [x] Criação de métodos - [MethodCreate.java](Methods/src/MethodCreate.java)
 - [ ] Parâmetros
 - [ ] Retorno
 - [ ] Sobrecarga
