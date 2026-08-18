@@ -28,11 +28,11 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 - [x] Criação de métodos - [MethodCreate.java](Methods/src/MethodCreate.java)
 - [x] Parâmetros - [MethodParameters.java](Methods/src/MethodParameters.java)
 - [x] Retorno - [MethodReturn.java](Methods/src/MethodReturn.java)
-- [x] Sobrecarga - - [MethodOverloading.java](Methods/src/MethodOverloading.java)
+- [x] Sobrecarga - [MethodOverloading.java](Methods/src/MethodOverloading.java)
 
 ## Arrays
 
-- [ ] Arrays
+- [x] Arrays - [ArraysBasics](Arrays/src/ArraysBasics.java)
 - [ ] Matrizes
 
 ## Orientação a Objetos
