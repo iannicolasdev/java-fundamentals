@@ -32,8 +32,8 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Arrays
 
-- [x] Arrays - [ArraysBasics](Arrays/src/ArraysBasics.java)
-- [ ] Matrizes
+- [x] Arrays - [ArraysBasics.java](Arrays/src/ArraysBasics.java)
+- [x] Matrizes - [MatrixBasics.java](Arrays/src/MatrixBasics.java)
 
 ## Orientação a Objetos
 
