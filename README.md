@@ -37,7 +37,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Orientação a Objetos
 
-- [ ] Classes e Objetos
+- [x] Classes e Objetos - [Main.java](ObjectOriented/src/Main.java), [User.java](ObjectOriented/src/User.java)
 - [ ] Construtores
 - [ ] Encapsulamento
 - [ ] Herança
