@@ -1,10 +1,20 @@
 public class User {
 
+   // Attribute
     String name;
     int age;
     float height;
     float weight;
 
+    // Constructor
+    User(String name, int age, float height, float weight) {
+        this.name = name;
+        this.age = age;
+        this.height = height;
+        this.weight = weight;
+    }
+
+    // Method
     void introduce() {
         System.out.printf("Hello, my name is %s. %n", name);
         System.out.printf("My age is %d. %n", age);
