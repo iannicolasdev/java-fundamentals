@@ -1,10 +1,18 @@
 public class User {
 
    // Attribute
-    String name;
-    int age;
+    private String name;
+    private int age;
     float height;
     float weight;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 
     // Constructor
     User(String name, int age, float height, float weight) {
