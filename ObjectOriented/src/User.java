@@ -1,16 +1,20 @@
 public class User {
 
    // Attribute
-    protected int id;
-    protected String name;
+    private int id;
+    private String name;
 
-//    public String getName() {
-//        return name;
-//    }
+    public String getName() {
+        return name;
+    }
 
-//    public void setAge(int age) {
-//        this.age = age;
-//    }
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getId() {
+        return id;
+    }
 
     // Constructor
     public User(int id, String name) {
@@ -21,6 +25,6 @@ public class User {
     // Method
     public void introduce() {
         System.out.printf("Welcome User %s! %n", name);
-//        System.out.printf("My age is %d. %n", age);
+        System.out.printf("User ID: %d. %n", id);
     }
 }

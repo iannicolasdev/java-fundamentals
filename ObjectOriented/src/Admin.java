@@ -6,7 +6,7 @@ public class Admin extends User{
 
     @Override
     public void introduce() {
-        System.out.printf("Welcome Admin %s! %n", name);
-//        System.out.printf("My age is %d. %n", age);
+        System.out.printf("Welcome Admin %s! %n", getName());
+        System.out.printf("Admin ID: %d. %n", getId());
     }
 }
