@@ -1,32 +1,26 @@
 public class User {
 
    // Attribute
-    private String name;
-    private int age;
-    float height;
-    float weight;
+    protected int id;
+    protected String name;
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+//    public void setAge(int age) {
+//        this.age = age;
+//    }
 
     // Constructor
-    User(String name, int age, float height, float weight) {
+    public User(int id, String name) {
+        this.id = id;
         this.name = name;
-        this.age = age;
-        this.height = height;
-        this.weight = weight;
     }
 
     // Method
-    void introduce() {
-        System.out.printf("Hello, my name is %s. %n", name);
-        System.out.printf("My age is %d. %n", age);
-        System.out.printf("My height is %.2f. %n", height);
-        System.out.printf("My weight is %.2f. %n", weight);
+    public void introduce() {
+        System.out.printf("Welcome User %s! %n", name);
+//        System.out.printf("My age is %d. %n", age);
     }
 }
