@@ -3,15 +3,13 @@ public class Main {
 
         User[] users = {
                 new Admin(123, "Ian"),
-                new User(456, "Linus Torvalds"),
-                new User(789, "Alan Turing")
+                new Developer(456, "Linus Torvalds"),
+                new Developer(789, "Alan Turing")
         };
 
         for(User user : users) {
             user.introduce();
             System.out.println();
         }
-
-
     }
 }

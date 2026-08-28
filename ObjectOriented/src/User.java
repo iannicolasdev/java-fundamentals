@@ -1,4 +1,4 @@
-public class User {
+public abstract class User {
 
    // Attribute
     private int id;
@@ -23,8 +23,5 @@ public class User {
     }
 
     // Method
-    public void introduce() {
-        System.out.printf("Welcome User %s! %n", name);
-        System.out.printf("User ID: %d. %n", id);
-    }
+    public abstract void introduce();
 }
