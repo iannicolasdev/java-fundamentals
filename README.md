@@ -42,8 +42,8 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 - [x] Encapsulamento - [Main.java](ObjectOriented/src/Main.java), [User.java](ObjectOriented/src/User.java)
 - [x] Herança - [Admin.java](ObjectOriented/src/Admin.java)
 - [x] Polimorfismo - [Main.java](ObjectOriented/src/Main.java)
-- [x] Abstração
-- [ ] Interfaces
+- [x] Abstração - [User.java](ObjectOriented/src/User.java), [Developer.java](ObjectOriented/src/Developer.java)
+- [x] Interfaces - [Developable.java](ObjectOriented/src/Developable.java), [User.java](ObjectOriented/src/User.java), [Developer.java](ObjectOriented/src/Developer.java)
 
 ## Tratamento de Exceções
 

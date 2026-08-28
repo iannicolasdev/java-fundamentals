@@ -24,4 +24,9 @@ public abstract class User {
 
     // Method
     public abstract void introduce();
+
+    // Interface
+    public interface Develop {
+        void developing();
+    }
 }

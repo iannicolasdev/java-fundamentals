@@ -9,6 +9,11 @@ public class Main {
 
         for(User user : users) {
             user.introduce();
+
+            if (user instanceof Developable) {
+                ((Developable) user).develop();
+            }
+
             System.out.println();
         }
     }
