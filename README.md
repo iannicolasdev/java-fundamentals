@@ -48,7 +48,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 ## Tratamento de Exceções
 
 - [x] try/catch - [TryCatch.java](ExceptionHandling/src/TryCatch.java)
-- [ ] throw
+- [x] throw - [Throw.java](ExceptionHandling/src/Throw.java)
 - [ ] throws
 
 ## Coleções
