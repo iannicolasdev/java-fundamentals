@@ -56,7 +56,7 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 - [x] ArrayList - [ArrayLists.java](Collections/src/ArrayLists.java)
 - [x] LinkedList - [LinkedLists.java](Collections/src/LinkedLists.java)
 - [x] HashSet - [HashSets.java](Collections/src/HashSets.java)
-- [ ] HashMap
+- [x] HashMap - [HashMaps.java](Collections/src/HashMaps.java)
 
 ## Recursos Modernos
 
