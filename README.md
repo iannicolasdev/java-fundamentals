@@ -60,8 +60,8 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 
 ## Recursos Modernos
 
-- [x] EnumExample - [EnumExample.java](ModernResources/src/EnumExample.java)
-- [ ] Records
+- [x] Enum - [EnumExample.java](ModernResources/src/EnumExample.java)
+- [x] Records - [RecordsExample.java](ModernResources/src/RecordsExample.java)
 - [ ] Generics
 - [ ] Lambda
 - [ ] Stream API
