@@ -65,4 +65,4 @@ Repositório criado para acompanhar minha evolução na linguagem Java.
 - [x] Generics - [GenericsExample.java](ModernResources/src/GenericsExample.java)
 - [x] Lambda - [LambdaExample.java](ModernResources/src/LambdaExample.java)
 - [x] Stream API - [StreamApiExample.java](ModernResources/src/StreamApiExample.java)
-- [ ] Optional
+- [x] Optional - [OptionalExample.java](ModernResources/src/OptionalExample.java)
